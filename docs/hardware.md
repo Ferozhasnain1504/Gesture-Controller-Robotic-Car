@@ -1,4 +1,3 @@
-```markdown
 # Hardware Setup
 
 ## Components
