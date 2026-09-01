@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# ROS 2
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Media
+*.mp4
+*.mov
+*.avi
+
+# Logs
+*.log
+
+# Environment
+.env
+
+# Python cache
+.pytest_cache/
+.mypy_cache/

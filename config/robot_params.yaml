@@ -1,0 +1,24 @@
+robot:
+  motor:
+    left:
+      enable_pin: 12
+      input_1: 17
+      input_2: 18
+
+    right:
+      enable_pin: 13
+      input_1: 22
+      input_2: 23
+
+  pwm_frequency: 1000
+  default_speed: 70
+
+camera:
+  device: 0
+  width: 640
+  height: 480
+  fps: 20
+
+gesture:
+  detection_confidence: 0.6
+  tracking_confidence: 0.6
