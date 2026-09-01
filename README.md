@@ -4,6 +4,14 @@ A real-time gesture-controlled robotic car built using **Python, MediaPipe, Rasp
 
 The system uses a camera to detect hand gestures using MediaPipe, converts the detected gestures into motion commands, and communicates those commands through ROS 2 to a motor-control node running on the Raspberry Pi.
 
+--
+![Gesture Controlled Robotic Car](media/car1.jpeg)
+![Gesture Controlled Robotic Car](media/car2.jpeg)
+
+A real-time gesture-controlled robotic car built using
+Python, MediaPipe, Raspberry Pi 4, GPIO and ROS 2.
+--
+
 ## 🚗 Features
 
 * Real-time hand gesture detection
