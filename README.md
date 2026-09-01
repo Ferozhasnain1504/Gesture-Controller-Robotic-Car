@@ -267,7 +267,7 @@ gesture-controlled-robotic-car/
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Feroz Hasnain**
 
 Electronics & Communication Engineering
 
